@@ -16,4 +16,12 @@ https://necolas.github.io/normalize.css/
 
 https://responsively.app/
 
+https://www.paulirish.com/2012/box-sizing-border-box-ftw/
 
+https://caniuse.com/
+
+https://www.cssmatic.com/box-shadow
+
+https://www.netlify.com/
+
+https://github.com/
